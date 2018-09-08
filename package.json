@@ -1,5 +1,5 @@
 {
-  "name": "@ali/topSdk",
+  "name": "sync-alisdk",
   "author":"xuteng.xt@alibaba-inc.com",
   "version": "2.0.5",
   "description": "Taobao Open API & Message Client.",
@@ -20,8 +20,5 @@
   },
   "engines": {
     "node": ">=0.8"
-  },
-  "publishConfig": {
-    "registry": "http://registry.npm.alibaba-inc.com"
   }
 }
